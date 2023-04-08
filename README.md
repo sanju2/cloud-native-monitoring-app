@@ -7,8 +7,6 @@ Cloud Native Monitoring App Deploy on AWS
 ### Output Screenshot
 ![Diagram](monitoring-app-screenshot.png)
 
-[Blog Post Link](https://dev.to/aws-builders/how-i-built-my-personal-blog-site-using-aws-services-51l7).
-
 ### Step for run application.
 
 - Step 1 : Clone github repository.
